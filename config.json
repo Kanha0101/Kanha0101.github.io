@@ -1,0 +1,6 @@
+{
+  "bot_token": "don't paste your token here", 
+  "client_id": "client_id",
+  "guild_id": "guild_id",
+  "mongodb_uri": "mongodb+srv://tikit:tikit@cluster0.3u2blta.mongodb.net/?retryWrites=true&w=majority"
+}
